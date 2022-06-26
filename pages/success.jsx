@@ -33,7 +33,7 @@ export default function Success({ order }) {
       >
         <h1>Thank you for your order!</h1>
         <h2>
-          A confirmation email has been sent to {order.customer_details.email}
+          A confirmation email has been sent to <br/> {order.customer_details.email}
         </h2>
         <InforWrapper>
           <Address>
