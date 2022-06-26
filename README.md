@@ -15,7 +15,7 @@
 
 # PHOTO EComerce
 
-- Camping-Life-App is an Full Stack application built with the NExt.js, Graphql, and stripe. 
+- PHOTO EComerce is an Full Stack application built with the NExt.js, Graphql, and stripe. 
   The backend is built with strapi .
 - It is for people who like to purchase photographic instruments and the user has his own profile where he can see the history of his purchases 
 
